@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+My name is Michael McHenry and I am an aspiring software and web developer. With over 10 years experience in the IT industry I have had the unique opportunity to work with numerous enterprise software and hardware systems starting out as tech support for Verizon internet cable and voice services for 2 years I eventually made my way to JP Morgan Chase and worked as an IT analyst tasked with the continued support and maintenance of the enterprise hardware and software used firm wide by all of JP Morgans employees 3 years of experience eventually lead me to a Top Secret cleared position working as a red hat server/software admin contracted through the department of defense,here I tasked with the 24/7 maintenance and monitoring of several communications servers located throughout the US ,I ensured continuous up time of all services and in the event of outages and system issues ensuring service continuity of operations by implementing redundancy measures to guarantee minimal service interruptions.
+
+Since 2016 I have pursued continued advancement and learning in the fields of software development and web design and over the years have amassed an extensive portfolio of projects each with the expressed intent to advance my knowledge and experience in critical, cutting edges technology frameworks and methodologies. In 2019 I started a position in Guantanamo Bay Cuba and am currently employed as a software developer for a mission critical ASP.net web application. Here I ensure that the applications functionality stays current to the ever changing mission requirements, tailoring web front end workflows with intuitive layouts allowing for quick analysis and modification of pertinent data. Further I have performed back-end system performance improvements in MS SQL ensuring that the data is efficiently modeled, indexed and queried.
+
+Looking forward it is my goal to continue down the path of software development within the cleared spaces of US government. I intend to continue to work and live in exotic locations, to contribute meaningfully to mission critical projects and to gain real world experience and knowledge in cutting edge technologies. 
