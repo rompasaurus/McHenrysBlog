@@ -22,8 +22,7 @@ title: McHenry's Blog
 email: michael.e.mchenry@gmail.com
 description: Michael McHenry's Software development Journal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: tomjoht.github.io
-   baseurl: /McHenrysBlog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rompasaurus
 github_username:  rompsaaurus
 show_excerpts: true
