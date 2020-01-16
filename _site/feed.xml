@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-16T17:41:02-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">McHenry’s Blog</title><subtitle>Michael McHenry's Software development Journal</subtitle><entry><title type="html">Overview</title><link href="http://localhost:4000/projects/thought%20encyclopedia/overview/planning/goals/2020/01/16/Thought-Encyclopedia-Overview.html" rel="alternate" type="text/html" title="Overview" /><published>2020-01-16T00:00:00-05:00</published><updated>2020-01-16T00:00:00-05:00</updated><id>http://localhost:4000/projects/thought%20encyclopedia/overview/planning/goals/2020/01/16/Thought%20Encyclopedia%20Overview</id><content type="html" xml:base="http://localhost:4000/projects/thought%20encyclopedia/overview/planning/goals/2020/01/16/Thought-Encyclopedia-Overview.html">&lt;h2 id=&quot;thought-encyclopedia-overview&quot;&gt;Thought Encyclopedia Overview:&lt;/h2&gt;
+
+&lt;h4 id=&quot;premise&quot;&gt;Premise:&lt;/h4&gt;
+&lt;p&gt;How does one organize thoughts and conversations and distill it to its most usable and useful form? Many people keep track of the steps they take in the day, what they eat, how much money they spend where they go but I believe it is equally just as important to keep track of your thoughts.&lt;/p&gt;
+
+&lt;p&gt;Its troubling that often the words we need to hear are our own left but without writing these word are destined to be left behind without the means to be discovered.&lt;/p&gt;
+
+&lt;h4 id=&quot;objective-of-this-site&quot;&gt;Objective of this site:&lt;/h4&gt;
+
+&lt;p&gt;The objective of this site is to Provide a unique and organized methodology for writing and manging users thoughts and ideas that occur to them throughout the day. In essence this site will be a journal topics and rumination upon these topics that allows for care observation and recall at a later date.This site will act as an individualized journal for each user.Though Journal each user will have their own unique set ideas and topics that they will want to cover the thought encyclopedia will act as the framework for keeping track of thoughts and ideas and allowing the user to come back to them later and continuously organize and develop them.&lt;/p&gt;
+
+&lt;h4 id=&quot;things-that-need-to-be-done&quot;&gt;Things that need to be done:&lt;/h4&gt;
+
+&lt;p&gt;I need to continue to write daily my 2000 words and identify and develop and patterns for the topics that I cover, so that I can establish an organizational baseline. As such this site’s framwork will not be realized overnight instead it will be a slow evolution&lt;/p&gt;
+
+&lt;p&gt;I have begun to identify key bullet point topics to my daily journaling and  I will continue to add to this list and hammer down a tightly organized schema to all my words then I can begin to translate the process so that others can do the same easily&lt;/p&gt;
+
+&lt;h4 id=&quot;design-philosophy&quot;&gt;Design Philosophy:&lt;/h4&gt;
+
+&lt;p&gt;Tabs are key My thoughts are more a list than an essay and they should be presented that way
+like XML or any programming language tabs play key role in allow the user to discern the natural order to statements and process and the parent overarching idea that they are a part of.&lt;/p&gt;
+
+&lt;p&gt;Tabs will act as the organization tags/dividers for thoughts
+The site should be like a note pad but fluid and quick to highlight parent topics based on the tabs and spacing and also intuitively create a list of bullet point topics for the use.&lt;/p&gt;
+
+&lt;p&gt;Bullet points topics will allow the user to establish and identify overarching ideas and also allow them to go back and see the progress they’ve made in each topic.Each bullet point should also have statistical information dates and frequency of topic use and word count as well as with the subtopic and related ideas&lt;/p&gt;
+
+&lt;p&gt;I will be taking inspiration from my own words to outline and template an organizational data schema&lt;/p&gt;
+
+&lt;h4 id=&quot;organization-principles-for-these-words&quot;&gt;Organization principles for these words:&lt;/h4&gt;
+
+&lt;p&gt;Tabs distinguish between a parent and child topic that are related 
+Colons: will identify unique bullet point ideas and will be add to a topic back and be automatically bolded and highlighted and underlined.&lt;/p&gt;
+
+&lt;h4 id=&quot;where-to-begin-this-endeavor&quot;&gt;Where to begin this endeavor:&lt;/h4&gt;
+
+&lt;p&gt;I will want to start to translate my own words into a website/blog no user interactions or interactiveness quite yet as the layout of this site requires a functional user driven approach.This will allow me to focus on the design style that I want to adopt for the site and allow others to view it as well to guide the design choices.&lt;/p&gt;
+
+&lt;p&gt;Continued Jorunalling following the and enhance the style set by my previous project 2000 words a day. I want to begin to formalte a distinct set of topics that I reflect upon dailys and begin to gauge how each topic is prsented and expounded upon.&lt;/p&gt;</content><author><name></name></author><summary type="html">Thought Encyclopedia Overview:</summary></entry><entry><title type="html">Markdown Notes</title><link href="http://localhost:4000/notes/2020/01/14/Quick-Markdown-Notes.html" rel="alternate" type="text/html" title="Markdown Notes" /><published>2020-01-14T15:15:22-05:00</published><updated>2020-01-14T15:15:22-05:00</updated><id>http://localhost:4000/notes/2020/01/14/Quick%20Markdown%20Notes</id><content type="html" xml:base="http://localhost:4000/notes/2020/01/14/Quick-Markdown-Notes.html">&lt;h3 id=&quot;jekyll-markdown-quick-reference&quot;&gt;Jekyll Markdown Quick Reference&lt;/h3&gt;
+&lt;p&gt;This is a quick and easy reference guide to display the common mardown methods for general use case when creating content for the jekyll site. This document was pulled from guthub user roachhd via &lt;a href=&quot;https://gist.github.com/roachhd/779fa77e9b90fe945b0c&quot;&gt;https://gist.github.com/roachhd/779fa77e9b90fe945b0c&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;write-in-simply-awesome-markdown&quot;&gt;Write in simply awesome markdown&lt;/h4&gt;
+
+&lt;p&gt;layout: post
+title: Markdown Style Guide
+—&lt;/p&gt;
+
+&lt;p&gt;This is a demo of all styled elements in Jekyll Now.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md&quot;&gt;View the markdown used to create this post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a paragraph, it’s surrounded by whitespace. Next up are some headers, they’re heavily influenced by GitHub’s markdown style.&lt;/p&gt;
+
+&lt;h2 id=&quot;header-2-h1-is-reserved-for-post-titles&quot;&gt;Header 2 (H1 is reserved for post titles)##&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
+
+&lt;p&gt;A link to &lt;a href=&quot;http://github.com/barryclark/jekyll-now/&quot;&gt;Jekyll Now&lt;/a&gt;. A big ass literal link &lt;a href=&quot;http://github.com/barryclark/jekyll-now/&quot;&gt;http://github.com/barryclark/jekyll-now/&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A bulletted list&lt;/li&gt;
+  &lt;li&gt;alternative syntax 1&lt;/li&gt;
+  &lt;li&gt;alternative syntax 2
+    &lt;ul&gt;
+      &lt;li&gt;an indented list item&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;An&lt;/li&gt;
+  &lt;li&gt;ordered&lt;/li&gt;
+  &lt;li&gt;list&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Inline markup styles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Blockquote&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Nested Blockquote&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Syntax highlighting can be used by wrapping your code in a liquid tag like so:&lt;/p&gt;
+
+&lt;p&gt;{% highlight javascript %}&lt;br /&gt;
+/* Some pointless Javascript */
+var rawr = [“r”, “a”, “w”, “r”];
+{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;creates…&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/* Some pointless Javascript */&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rawr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;w&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Use two trailing spaces&lt;br /&gt;
+on the right&lt;br /&gt;
+to create linebreak tags&lt;/p&gt;
+
+&lt;p&gt;Finally, horizontal lines&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;</content><author><name></name></author><summary type="html">Jekyll Markdown Quick Reference This is a quick and easy reference guide to display the common mardown methods for general use case when creating content for the jekyll site. This document was pulled from guthub user roachhd via https://gist.github.com/roachhd/779fa77e9b90fe945b0c</summary></entry><entry><title type="html">Beginning</title><link href="http://localhost:4000/projects/thought%20encyclopedia/intro/2020/01/14/First-Post.html" rel="alternate" type="text/html" title="Beginning" /><published>2020-01-14T15:15:22-05:00</published><updated>2020-01-14T15:15:22-05:00</updated><id>http://localhost:4000/projects/thought%20encyclopedia/intro/2020/01/14/First%20Post</id><content type="html" xml:base="http://localhost:4000/projects/thought%20encyclopedia/intro/2020/01/14/First-Post.html">&lt;p&gt;This post marks the begining of online documetation and learning journal. I am creating this site in hopes of presenting the knowlege that I have acquired in my learning expeditions to anyone else following a similar learning path.&lt;/p&gt;
+
+&lt;p&gt;It is my intent with this site to establish a repository of record of all the major development and learning projects that I will be pursuing over the course of the coming years. I have realized over the years that alot of the things I’ve done and learned havent been tracked and noted as well as I would have liked. In more times that I care to admit I have found myself relearning bits of informations that, had I wrote down and stored would have been able to search and easily recall. Because of this I have decided that my documentation should be formalized, organized, stored and available for view online.&lt;/p&gt;
+
+&lt;p&gt;As such in beginning my new web project The Thought Encyclopedia I would like to establish a static site to act as the repository of my thoughts, planning and steps taken to translate ideas into action. This site will be the documentation of the processes tools used in creating my web application projects. and to also act as a testament to my abilities as much as the site itself.&lt;/p&gt;
+
+&lt;p&gt;My hope with this site is to provide useful information to anyone in puruit of advancement in the field of web development and to showcase my accomplishments and abilits to any future employers and project leaders.&lt;/p&gt;</content><author><name></name></author><summary type="html">This post marks the begining of online documetation and learning journal. I am creating this site in hopes of presenting the knowlege that I have acquired in my learning expeditions to anyone else following a similar learning path.</summary></entry></feed>
