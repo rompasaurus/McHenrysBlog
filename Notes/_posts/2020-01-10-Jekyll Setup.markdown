@@ -37,11 +37,11 @@ Yaml sysntax will be an important concept to understand in begining to contribut
 
 I love the idea of jeckyll and the simplicity of static pages however I would to reamin in the .net ecosystem instead of ruby and as such decided a different framework would be more appealing
 
-# Wyam:
+### Wyam:
 
 Seems the better alternative to jekyll to allow me to stay within the scope of the dotnet framework contining forward I will be using this as the template for my simple blog.
 
-# Steps Takent to setup whyam on mac:
+### Steps Taken to setup whyam on mac:
 
 ### install the wyam package via command:
 	dotnet tool install -g Wyam.Tool
