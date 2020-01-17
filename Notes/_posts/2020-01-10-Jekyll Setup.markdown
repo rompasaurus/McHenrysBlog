@@ -84,13 +84,13 @@ open the ruby cli from the start menu and type the following commands"
 pulls in all the jekyll packages and dependecies and includes it inot ruby sdk file listing
 	jekyll new myblog
 pull template blog setup with default configuration established by jekyll
-	### note:
+	* note:
 	blog files and folders will be created in the current directory specified in cmd prompt
 	cd myblog
 change directory to where the blog was created
 	bundle exec jekyll serve
 pulls in any remain dependencies need to run the default jekyll build and begins hosting site on localhost:4000 addres	
-	### note: 
+	* note: 
 	upon adding pages to jeckyll folder structure, jekyll will automatically injest and route the page properly, however any change to the config.yml file will require a reinitialiez of jekyll and the server via 
 	ctr-c x2 > jekyll serve command
 
