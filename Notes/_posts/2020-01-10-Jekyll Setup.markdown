@@ -75,7 +75,7 @@ Since 2016 I have pursued continued advancement and learning in the fields of so
 Looking forward it is my goal to continue down the path of software development within the cleared spaces of US government. I intend to continue to work and live in exotic locations, to contribute meaningfully to mission critical projects and to gain real world experience and knowledge in cutting edge technologies. 
 
 
-## Quick Steps to setup Jekyll example instance from scratch:
+### Quick Steps to setup Jekyll example instance from scratch:
 ### Step 1:
 Download Ruby sdk version 2.6 from ruby.io and install
 ### Step 2:
@@ -84,13 +84,13 @@ open the ruby cli from the start menu and type the following commands"
 pulls in all the jekyll packages and dependecies and includes it inot ruby sdk file listing
 	jekyll new myblog
 pull template blog setup with default configuration established by jekyll
-	* note:
+	note:
 	blog files and folders will be created in the current directory specified in cmd prompt
 	cd myblog
 change directory to where the blog was created
 	bundle exec jekyll serve
 pulls in any remain dependencies need to run the default jekyll build and begins hosting site on localhost:4000 addres	
-	* note: 
+	note: 
 	upon adding pages to jeckyll folder structure, jekyll will automatically injest and route the page properly, however any change to the config.yml file will require a reinitialiez of jekyll and the server via 
 	ctr-c x2 > jekyll serve command
 
