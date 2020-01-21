@@ -103,11 +103,11 @@ body {
 .sticky + .content {
   padding-top: 60px;
 }
-</style>
-<html>
-	<head></head>		
-	<title class="site_name"> The Thought Encyclopedia </title>
-	<h1 class="Site_Logo">The Thought Encyclopedia</h1>
+	</style>
+	<html>
+		<head></head>		
+		<title class="site_name"> The Thought Encyclopedia </title>
+		<h1 class="Site_Logo">The Thought Encyclopedia</h1>
 	
 	<div id="Navigation_Bar">
 		<a href="/" class="item">Home</a>
